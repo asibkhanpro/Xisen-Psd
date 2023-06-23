@@ -1,0 +1,338 @@
+/* Laptop Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .access-bg > img {
+        margin-left: -50px;
+        max-width: 100%;
+    }
+    .access-bg-2 > img {
+        margin-right: 0;
+        margin-left: -200px;
+        max-width: inherit;
+    }
+    /* index-2 */
+    .hero-padding {
+        padding: 0 50px;
+    }
+    /* index-3 */
+    .fea-hw-img > img {
+        margin-left: 0px;
+    }
+    .fea-3-img-2 > img {
+        margin-left: -200px;
+        max-width: inherit;
+    }
+    .brand-area {
+        max-width: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .main-manu ul li {
+        margin: 0 15px;
+    }
+    .slider-img > img {
+        max-width: inherit;
+    }
+    .access-bg > img {
+        margin-left: 0;
+        max-width: inherit;
+    }
+    .access-text > p {
+        width: 60%;
+    }
+    .access-text > p {
+        width: 100%;
+    }
+    .testimonial-img > img {
+        margin-left: 0;
+    }
+    /* index-2 */
+    .hero-padding {
+        padding: 0;
+    }
+    .slider-height-2 {
+        min-height: 600px;
+        padding-top: 215px;
+    }
+    .features-images img {
+        margin-left: -30px;
+        max-width: 100%;
+    }
+    .row.features-parent {
+        padding-top: 10px;
+    }
+    .what-do-list {
+        padding: 50px 27px;
+    }
+    .features-list-right-img img {
+        margin-left: 0;
+    }
+    .features-content-list h2 {
+        font-size: 30px;
+    }
+    .features-list-left-img img {
+        margin-left: -30px;
+        max-width: 100%;
+    }
+    .price-tab {
+        padding: 50px 26px;
+    }
+    .testimonial-img > img {
+        max-width: 100%;
+        margin-left: -30px;
+    }
+    /* index-3 */
+    .slider-height-3 {
+        min-height: 790px;
+    }
+    .slider-text-3 > h2 {
+        font-size: 38px;
+    }
+    .slider-text-3 > p {
+        padding-right: 0;
+    }
+    .fea-3-img > img {
+        margin-left: -50px;
+        max-width: 100%;
+    }
+    .fea-3-content {
+        padding-top: 0;
+    }
+    .fea-3-content > h2 {
+        font-size: 35px;
+        margin-bottom: 25px;
+    }
+    .fea-3-content {
+        padding-top: 40px;
+    }
+    .fea-list-items {
+        padding: 50px 20px;
+    }
+    .fea-hw-img > img {
+        margin-left: 38px;
+        max-width: 100%;
+    }
+}
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .header-transparent {
+        padding: 20px 0;
+    }
+    .slider-text {
+        margin-bottom: 25px;
+    }
+    .access-bg > img {
+        margin-left: 0;
+        max-width: 100%;
+    }
+    .access-bg-2 > img {
+        margin-right: 0;
+        max-width: 100%;
+    }
+    .testimonial-img > img {
+        margin-left: 0;
+    }
+    /* index-2 */
+    .hero-padding {
+        padding: 0;
+    }
+    .header-normal {
+        padding: 15px 0;
+        padding-bottom: 5px;
+    }
+    .mean-container a.meanmenu-reveal {
+        margin-top: -34px;
+    }
+    .slider-height-2 {
+        padding-top: 130px;
+    }
+    .features-images img {
+        margin-left: 0;
+    }
+    .what-do-list {
+        padding: 50px 30px;
+    }
+    .features-list-right-img img {
+        margin-left: 0;
+    }
+    .features-list-left-img img {
+        margin-left: 0;
+        max-width: 100%;
+    }
+    .price-tab {
+        padding: 60px 24px;
+    }
+    /* index-3 */
+    .slider-img-3 > img {
+        max-width: 100%;
+        margin-left: 0;
+    }
+    .slider-text {
+        margin-bottom: 40px;
+    }
+    .fea-3-img {
+        padding-top: 60px;
+    }
+    .fea-3-img > img {
+        margin-left: 0;
+        max-width: 100%;
+    }
+    .brand-email > form input {
+        width: 65%;
+    }
+    .brand-email > form button {
+        padding: 0 75px;
+    }
+    .brand-area {
+        background-repeat: no-repeat;
+    }
+    .is-sticky .header-area.header-sticky {
+        padding: 10px 0;
+        padding-bottom: 0;
+    }
+}
+/* Extra small Device. */
+@media (max-width: 767px) {
+    .header-transparent {
+        padding: 20px 0;
+    }
+    .slider-text {
+        margin-bottom: 25px;
+    }
+    .access-bg > img {
+        margin-left: 0;
+        max-width: 100%;
+    }
+    .access-bg-2 > img {
+        margin-right: 0;
+        max-width: 100%;
+    }
+    .testimonial-img > img {
+        margin-left: 0;
+    }
+    .slider-text > h2 {
+        font-size: 35px;
+    }
+    .access-text > h3 {
+        font-size: 30px;
+    }
+    .section-title > h2 {
+        font-size: 30px;
+    }
+    .newsletter > form input {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .newsletter > form button {
+        float: none;
+    }
+    .footer-menu > ul li {
+        margin-left: 0;
+        margin-right: 20px;
+    }
+    /* index-2 */
+    .hero-padding {
+        padding: 0;
+    }
+    .header-normal {
+        padding: 15px 0;
+        padding-bottom: 5px;
+    }
+    .mean-container a.meanmenu-reveal {
+        margin-top: -34px;
+    }
+    .slider-height-2 {
+        padding-top: 140px;
+    }
+    .features-images img {
+        margin-left: 0;
+    }
+    .what-do-list {
+        padding: 50px 30px;
+    }
+    .features-list-right-img img {
+        margin-left: 0;
+    }
+    .features-list-left-img img {
+        margin-left: 0;
+        max-width: 100%;
+    }
+    .price-tab {
+        padding: 60px 24px;
+    }
+    .section-title-2 > h2 {
+        font-size: 25px;
+    }
+    .features-content-list h2 {
+        font-size: 27px;
+    }
+    /* index-3 */
+    .slider-text {
+        padding-top: 10px;
+    }
+    .slider-text > h2 {
+        font-size: 25px;
+    }
+    .slider-text-3 > p {
+        padding-right: 0;
+    }
+    .slider-img-3 > img {
+        max-width: 100%;
+        margin-left: 0;
+    }
+    .slider-text {
+        margin-bottom: 40px;
+    }
+    .fea-3-img {
+        padding-top: 60px;
+    }
+    .fea-3-img > img {
+        margin-left: 0;
+        max-width: 100%;
+    }
+    .brand-email > form input {
+        width: 100%;
+    }
+    .fea-3-content > h2 {
+        font-size: 25px;
+    }
+    .section-title-pink h2 {
+        font-size: 23px;
+    }
+    .brand-area {
+        background-repeat: no-repeat;
+    }
+    #header-sticky {
+        padding: 10px 0;
+    }
+    .is-sticky .header-area.header-sticky {
+        padding: 10px 0;
+    }
+}
+/* SM Small Device :550px. */
+@media only screen and (min-width: 520px) and (max-width: 767px) {
+    .slider-text > h2 {
+        font-size: 40px;
+    }
+    .access-text > h3 {
+        font-size: 35px;
+    }
+    .section-title > h2 {
+        font-size: 35px;
+    }
+    .brand-active.owl-carousel:hover .owl-nav div.owl-prev {
+        left: -2px;
+    }
+    .brand-active.owl-carousel:hover .owl-nav div.owl-next {
+        right: -2px;
+    }
+    .section-title-pink h2 {
+        font-size: 27px;
+    }
+    
+}
+
